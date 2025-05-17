@@ -1,0 +1,7 @@
+sounddevice
+numpy
+
+transformers
+openai-whisper
+torch
+PyQt5
